@@ -268,7 +268,7 @@ Publish the website in the given URL.
 {% endblock %}
 ``` 
 ## OUTPUT:
-![output](./static/img/output1.png)
+![output](./static/img/home.png)
 ![output](./static/img/output2.png)
 ![output](./static/img/output3.png)
 ![output](./static/img/output4.png)
