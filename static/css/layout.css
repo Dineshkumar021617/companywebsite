@@ -119,10 +119,25 @@ body{
     display: block;
 }
 
+img{
+    width:190px;
+    height:200px;
+}
+
+.peoplecontent{
+    margin:50px;
+    text-align: center;
+}
+
 .peopleimg{
-    align-items: center;
+    display:block;
+    text-align: center;
+    padding:5px;
+}
+
+.peopledetails{
     display: block;
-    padding: 2px;
+    padding-bottom: 50px;
 }
 
 .footer{
@@ -135,3 +150,42 @@ body{
     margin: 0px 0px 0px 0px;
     color: rgb(218, 214, 214);
 }
+
+h2{
+    display: block;
+    box-sizing: border-box;
+    height:50px;
+    text-align: center;
+    border-bottom: ridge;
+    border-color: rgb(46, 44, 44) ;
+}
+
+#h3{
+    text-align:center;
+}
+
+.complaints{
+    box-sizing: border-box;
+    display:inline-block;
+    width:50%;
+    border-right: ridge;
+    border-color:  rgb(46, 44, 44) ;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+
+.contactus{
+    box-sizing: border-box;
+    display:inline-block;
+    width:40%;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-bottom:10px;
+}
+
+.address{
+    width: 1cm;
+    height: 1cm;
+}
+
